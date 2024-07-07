@@ -165,3 +165,21 @@ main section{
 .skills .section-description{
     padding: 0px 150px;
 }
+
+.resume-container{
+    display: flex;
+    gap: 24px;
+    justify-content: space-around;
+    
+    
+}
+.resume hr{
+    margin: 30px 5px;
+}
+.experience-description{
+    color: #757575;
+}
+
+.resume-download-cv{
+    margin-top: 50px;
+}
