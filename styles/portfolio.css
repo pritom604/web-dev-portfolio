@@ -226,6 +226,22 @@ footer{
     .about{
         padding: 30px;
     }
+    .banner{
+        flex-direction: column;
+    }
+    .banner-title{
+        font-size: 30px;
+    } 
+    .btn-primary {
+        margin-bottom: 10px;
+    }
+    .banner-profile-picture{
+        margin-left: -250px;
+        margin-top: 70px;
+    }
+    nav{
+        margin: 0px;
+    }
     
 }
 .hide{
